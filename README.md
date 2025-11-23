@@ -14,3 +14,5 @@ Steps
 7. Activate the venv with: .\venv\Scripts\Activate
 8. Install Pygame: pip install pygame
 9. Run the file: py .\pymidi.py
+
+Tip: in the venv folder is a example-file: F:\home\pikatchu\venv\Lib\site-packages\pygame\examples --> midi.py
